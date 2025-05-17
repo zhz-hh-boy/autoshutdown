@@ -1,4 +1,4 @@
-# Auto Shutdown Optimization Tool
+# Auto Shutdown Tool
 
 This tool can automatically shut down your computer according to the scheduled shutdown time.
 
